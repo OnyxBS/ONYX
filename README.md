@@ -19,7 +19,7 @@ local SUMMON_NPC = "BossSpawnAzula"
 local BOSSES = {
     ["Cursed Spirit"] = true,
     ["Yuji"] = true,
-    ["Yuji Modulo"] = true,
+    ["Yuji (Modulo)"] = true,
     ["Sukuna (50%)"] = true,
     ["Gojo (50%)"] = true,
 }
